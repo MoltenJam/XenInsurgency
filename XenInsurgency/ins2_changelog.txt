@@ -1,0 +1,4 @@
+Update 1.1:
+*Fixed guide rod on the Beretta M9
+*Fixed a sound not being precached in the M79
+*Added the Sterling L2A3
