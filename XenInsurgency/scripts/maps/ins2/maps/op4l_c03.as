@@ -1,5 +1,7 @@
+USE THIS AS A FORM OF REFERENCE FOR WEAPON Modification
+
 // Replacement Script with Insurgency Weapons
-// Put this in the map's .cfg file: map_script ins2/maps/sc_toysoldiers
+// Put this in the map's .cfg file: map_script ins2/maps/Op4l_c03
 // Author: KernCore, original replacement logic from Nero
 
 /*
@@ -9,11 +11,14 @@ ammo_762
 ammo_9mmAR
 ammo_9mmbox
 ammo_9mmclip
+ammo_556
 ammo_ARgrenades
 ammo_buckshot
 ammo_crossbow
+ammo_sporeclip
 ammo_rpgclip
 ammo_uziclip
+weapon_crowbar
 weapon_357
 weapon_9mmAR
 weapon_9mmhandgun
@@ -27,6 +32,8 @@ weapon_rpg
 weapon_shotgun
 weapon_sniperrifle
 weapon_uzi
+weapon_sporelauncher
+weapon_eagle
 */
 
 //Insurgency weapons
